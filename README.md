@@ -1,4 +1,4 @@
-# JavaScript Functions as First Class Data: Array of Functions
+cd # JavaScript Functions as First Class Data: Array of Functions
 
 ## Learning Goals
 
